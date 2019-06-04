@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "video", "video\video.csproj", "{F2ADB672-FDE6-46C6-8DB0-45C22D34C54E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2ADB672-FDE6-46C6-8DB0-45C22D34C54E}.Debug|x86.ActiveCfg = Debug|x86
+		{F2ADB672-FDE6-46C6-8DB0-45C22D34C54E}.Debug|x86.Build.0 = Debug|x86
+		{F2ADB672-FDE6-46C6-8DB0-45C22D34C54E}.Release|x86.ActiveCfg = Release|x86
+		{F2ADB672-FDE6-46C6-8DB0-45C22D34C54E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

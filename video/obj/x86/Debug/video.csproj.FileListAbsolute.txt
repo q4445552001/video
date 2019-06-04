@@ -1,0 +1,8 @@
+D:\Downloads\video\video\bin\Debug\vidoe.exe
+D:\Downloads\video\video\bin\Debug\vidoe.pdb
+D:\Downloads\video\video\obj\x86\Debug\video.csprojResolveAssemblyReference.cache
+D:\Downloads\video\video\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Downloads\video\video\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Downloads\video\video\obj\x86\Debug\video.csproj.GenerateResource.Cache
+D:\Downloads\video\video\obj\x86\Debug\vidoe.exe
+D:\Downloads\video\video\obj\x86\Debug\vidoe.pdb
